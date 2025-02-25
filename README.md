@@ -1,5 +1,3 @@
-/*![Banner](https://e0.pxfuel.com/wallpapers/595/874/desktop-wallpaper-programming-green-code.jpg)*/
-
 # Hello everyone, I'm Farid Danilo
 
 **`Learning to be a Full Stack-Developer`**
@@ -17,5 +15,11 @@ I'm on a journey to learn, improve, contribute, and grow as a developer. I've al
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5662F6?style=flat&logo=discord&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
