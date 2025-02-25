@@ -12,5 +12,5 @@ I'm on the path to learn, improve, contribute and move forward. I've already pol
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Feather Icons](https://img.shields.io/badge/-Feather%20Icons-151b23?style=flat&logo=https://feathericons.com/favicon.png&logoColor=white)
+![Teams](https://img.shields.io/badge/-Teams-F7DF1E?style=flat&logo=teams&logoColor=black)
 
