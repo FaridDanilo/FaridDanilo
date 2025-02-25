@@ -18,4 +18,7 @@ I'm on a journey to learn, improve, contribute, and grow as a developer. I've al
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
+
+
 
