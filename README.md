@@ -8,8 +8,8 @@ I'm on the path to learn, improve, contribute and move forward. I've already pol
 🎯 Interests: Improvement in programming logic, unique and minimalist designs that stand out.
 📫 Contact me: fdgrijalbac@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farid_Danilo&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farid_Danilo&layout=compact&theme=tokyonight)
 
 ### Technologies:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
