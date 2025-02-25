@@ -1,8 +1,10 @@
+![Banner](https://your-image-url.com/banner.png)
+
 # Hello everyone, I'm Farid Danilo
 
 **`Learning to be a Full Stack-Developer`**
 
-I'm on the path to learn, improve, contribute and move forward. I've already polished the basic skills of "html, css" but I know there's still much more to learn. I'm currently improving in "php" and "javascript", I'm good at using the "mysqli" database.
+I'm on a journey to learn, improve, contribute, and grow as a developer. I've already polished the basic skills of "html, css" but I know there's still much more to learn. I'm currently improving my skills in PHP and JavaScript.
 
 🌍 Location: Colombia. <br>
 🎯 Interests: Improvement in programming logic, unique and minimalist designs that stand out. <br>
