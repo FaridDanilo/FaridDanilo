@@ -10,7 +10,7 @@ I'm on the path to learn, improve, contribute and move forward. I've already pol
 
 ### Technologies and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
 
