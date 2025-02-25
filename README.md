@@ -21,4 +21,8 @@ I'm on a journey to learn, improve, contribute, and grow as a developer. I've al
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
 
 
+## 🏆 Featured Projects
+- 🚀 [Proyecto 1](https://github.com/tu-usuario/proyecto1) - Breve descripción.
+- 🔥 [Proyecto 2](https://github.com/tu-usuario/proyecto2) - Breve descripción.
+
 
