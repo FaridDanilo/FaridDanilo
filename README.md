@@ -1,5 +1,7 @@
 # Hello everyone, I'm Farid Danilo
 
+**`FullStack-Developer`**
+
 I'm on the path to learn, improve, contribute and move forward. I've already polished the basic skills of "html, css" but I know there's still much more to learn. I'm currently improving in "php" and "javascript", I'm good at using the "mysqli" database.
 
 🌍 Location: Colombia.
