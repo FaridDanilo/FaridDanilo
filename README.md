@@ -1,4 +1,4 @@
-![Banner](https://[your-image-url.com](https://e0.pxfuel.com/wallpapers/595/874/desktop-wallpaper-programming-green-code.jpg)
+![Banner](https://e0.pxfuel.com/wallpapers/595/874/desktop-wallpaper-programming-green-code.jpg)
 
 # Hello everyone, I'm Farid Danilo
 
