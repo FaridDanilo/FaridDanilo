@@ -1,25 +1,33 @@
-# Hello everyone, I'm Farid Danilo
+# 👋 Hello, I'm Farid Danilo
 
-**`Learning to be a Full Stack-Developer`**
+**Aspiring Full Stack Developer | Creative Coder | Lifelong Learner**
 
-I'm on a journey to learn, improve, contribute, and grow as a developer. I've already polished the basic skills of "html, css" but I know there's still much more to learn. I'm currently improving my skills in PHP and JavaScript.
+I'm passionate about creating unique and minimalist web experiences. I'm currently focused on improving my skills in JavaScript, after mastering the basics of HTML and CSS. I love learning new things and sharing what I discover!
 
 🌍 Location: Colombia. <br>
 🎯 Interests: Improvement in programming logic, unique and minimalist designs that stand out. <br>
 📫 Contact me: fdgrijalbac@gmail.com <br>
 
-### Technologies, Tools and other skills:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🚀 Technologies & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
+
+**Other Tools:**  
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5662F6?style=flat&logo=discord&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridDanilo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridDanilo&layout=compact&theme=dark)
 
+## 🌟 Featured Projects
 
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+# Pronto, mi portafolio profesional
+- [Project 1: Portfolio Website](https://github.com/FaridDanilo/portfolio) — My personal portfolio built with HTML, CSS, and JS.
