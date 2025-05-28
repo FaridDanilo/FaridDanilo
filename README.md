@@ -29,5 +29,5 @@ I'm passionate about creating unique and minimalist web experiences. I'm current
 
 ## 🌟 Featured Projects
 
-# Pronto, mi portafolio profesional
+# Soon, my professional portfolio
 - [Project 1: Portfolio Website](https://github.com/FaridDanilo/portfolio) — My personal portfolio built with HTML, CSS, and JS.
