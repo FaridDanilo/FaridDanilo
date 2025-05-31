@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Farid Danilo
+# 👋 **`<Hello, I'm Farid Danilo>`**, 
 
-**Aspiring Full Stack Developer | Creative Coder | Lifelong Learner**
+*Aspiring Full Stack Developer | Creative Coder | Lifelong Learner*
 
 I'm passionate about creating unique and minimalist web experiences. I'm currently focused on improving my skills in JavaScript, after mastering the basics of HTML and CSS. I love learning new things and sharing what I discover!
 
-🌍 Location: Colombia. <br>
-🎯 Interests: Improvement in programming logic, unique and minimalist designs that stand out. <br>
-📫 Contact me: fdgrijalbac@gmail.com <br>
+* 🌍 Location: Colombia. 
+* 🎯 Interests: Improvement in programming logic, unique and minimalist designs that stand out. 
+* 📫 Contact me: fdgrijalbac@gmail.com 
 
 ## 🚀 Technologies & Tools
 
